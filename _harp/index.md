@@ -2,5 +2,6 @@
 
 ## Cheat sheets
 
-* [Midnight Commander](midnight-commander)
+* [Midnight Commander](mc)
 * [Vim](vim)
+* [Git](git)

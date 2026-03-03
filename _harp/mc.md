@@ -1,5 +1,7 @@
 # Midnight Commander Cheat Sheet
 
+N.B. all key mappings are in /etc/mc/mc.keymap
+
 ## General navigation
 
 Tab
@@ -10,6 +12,15 @@ F9
 
 F10
 : exit
+
+Ctrl-R
+: refresh current view
+
+Alt-c
+: quick cd
+
+Ctrl-\
+: open favourite directories list
 
 ## Working with filenames and the shell prompt
 
@@ -43,3 +54,8 @@ Alt-?
 
 Alt-s
 : quick search
+
+## File properties
+Ctrl-X c
+: chmod
+
